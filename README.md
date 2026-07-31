@@ -3,6 +3,8 @@
 > for Windows.
 > It's intended to track the latest releases of the upstream repository
 > at https://github.com/libffi/libffi only adding support for CMake.
+> It is now deprecated as Crystal's CI now uses Cygwin to build `libffi`
+> since crystal-lang/crystal#17163.
 
 Status
 ======
